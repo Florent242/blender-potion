@@ -31,7 +31,7 @@ blender-potion/
 ## Remarques
 
 - Modèle de **blockout** : topologie et matériaux destinés à la pré-production / au greyboxing.
-- Rendu d'aperçu généré sous Blender (EEVEE, éclairage studio neutre).
+- Rendu d'aperçu généré sous Blender (Cycles, environnement dégradé pour des réflexions de verre réalistes).
 - Les fichiers `*.blend1` de sauvegarde automatique sont exclus du versioning.
 
 ## Licence
